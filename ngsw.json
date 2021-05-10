@@ -1,10 +1,10 @@
 {
   "configVersion": 1,
-  "timestamp": 1620679946909,
+  "timestamp": 1620680387302,
   "index": "https://inthetext.github.io/app/index.html",
   "assetGroups": [
     {
-      "name": "app",
+      "name": "In The Text",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "cacheQueryOptions": {
@@ -62,16 +62,16 @@
         "https://inthetext.github.io/app/57.920ff0d7fd08a3371758.js",
         "https://inthetext.github.io/app/58.55ee2b498744ff70f3ff.js",
         "https://inthetext.github.io/app/59.76fa492d855a37bd9c51.js",
-        "https://inthetext.github.io/app/9.0972121defe287069be8.js",
+        "https://inthetext.github.io/app/9.dc50eeacf542a8e0741f.js",
         "https://inthetext.github.io/app/common.d7212a14bee892172f1b.js",
         "https://inthetext.github.io/app/index.html",
-        "https://inthetext.github.io/app/main.f41d9e14326bd9059a8f.js",
+        "https://inthetext.github.io/app/main.c627f8de2663b3796c0e.js",
         "https://inthetext.github.io/app/manifest.webmanifest",
         "https://inthetext.github.io/app/polyfills-core-js.926b2b327e549d9db414.js",
         "https://inthetext.github.io/app/polyfills-css-shim.359ce37e09f907eb011b.js",
         "https://inthetext.github.io/app/polyfills-dom.bf6c5ee357b1ca4890e9.js",
         "https://inthetext.github.io/app/polyfills.f60a48aeacc2168d684f.js",
-        "https://inthetext.github.io/app/runtime.99d919abb134dac4c591.js",
+        "https://inthetext.github.io/app/runtime.82c4681d87d22a332e56.js",
         "https://inthetext.github.io/app/styles.67a8a1b809171d3a28ee.css"
       ],
       "patterns": []
@@ -151,7 +151,7 @@
     "https://inthetext.github.io/app/57.920ff0d7fd08a3371758.js": "50f04b902d71bff5e32e149614bd5af21ba2a894",
     "https://inthetext.github.io/app/58.55ee2b498744ff70f3ff.js": "50cfefb195fbc558e227f5ed063a1dd5f30f1410",
     "https://inthetext.github.io/app/59.76fa492d855a37bd9c51.js": "9e75d90efc0eabe910d8ca98727733a4243bb08a",
-    "https://inthetext.github.io/app/9.0972121defe287069be8.js": "e2e410805d7a82364a92a16f22024157bab7f544",
+    "https://inthetext.github.io/app/9.dc50eeacf542a8e0741f.js": "cd33e09808a71c5ff3f8be25aaab0f9c8cd379e7",
     "https://inthetext.github.io/app/assets/icon/favicon.png": "5d08fde9844c827133f813dbc5289c16e9cb33ce",
     "https://inthetext.github.io/app/assets/icons/icon-128x128.png": "f0af6a0c4b04afd06786d1daf21d3dfea78b218d",
     "https://inthetext.github.io/app/assets/icons/icon-144x144.png": "fcb6f525ac536e2ce268be3716c5ed8cbe2dec91",
@@ -163,14 +163,14 @@
     "https://inthetext.github.io/app/assets/icons/icon-96x96.png": "9a243850636cfbf80b87f60dc693a6dbcdd8310e",
     "https://inthetext.github.io/app/assets/shapes.svg": "5413e95adabcb2cb639970051f55e0ddb64ace53",
     "https://inthetext.github.io/app/common.d7212a14bee892172f1b.js": "b642a48f3ee85c44dc00133339b9c786a92dc589",
-    "https://inthetext.github.io/app/index.html": "564f3f006a8f068abdcc461bfe795d1aa71a1774",
-    "https://inthetext.github.io/app/main.f41d9e14326bd9059a8f.js": "cc50623a34d4030ba3cee074417a9eaea6a783e6",
+    "https://inthetext.github.io/app/index.html": "470b8ba0ee096ead254478fb37e215b5ef31ecde",
+    "https://inthetext.github.io/app/main.c627f8de2663b3796c0e.js": "87c71aede39af54e8fb5b97c49ab8b7a8c8be924",
     "https://inthetext.github.io/app/manifest.webmanifest": "5006bfc54c41e7a59bafe522c2b9fda2af83a9b3",
     "https://inthetext.github.io/app/polyfills-core-js.926b2b327e549d9db414.js": "f71279ef311f3c1cecc661b8aabe632959a282f8",
     "https://inthetext.github.io/app/polyfills-css-shim.359ce37e09f907eb011b.js": "3f4dd6685f2d8a7a5f6fe2d3fa9e9320d460b112",
     "https://inthetext.github.io/app/polyfills-dom.bf6c5ee357b1ca4890e9.js": "3d12740300342a24e404779d9c0a06c58f44ec7c",
     "https://inthetext.github.io/app/polyfills.f60a48aeacc2168d684f.js": "cc853f64073e19a637806fc9433d22238803538f",
-    "https://inthetext.github.io/app/runtime.99d919abb134dac4c591.js": "7d6204a79b69bd0f358ab6e51fb9f6b1d7e1091d",
+    "https://inthetext.github.io/app/runtime.82c4681d87d22a332e56.js": "b049f30ae896fce463b4fcae904164a322d84fb4",
     "https://inthetext.github.io/app/styles.67a8a1b809171d3a28ee.css": "9ba40fe9d7b0b045bf4b3d975258e893ec1d3b5e"
   },
   "navigationUrls": [
