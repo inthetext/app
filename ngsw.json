@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1620680387302,
+  "timestamp": 1620680680813,
   "index": "https://inthetext.github.io/app/index.html",
   "assetGroups": [
     {
@@ -165,7 +165,7 @@
     "https://inthetext.github.io/app/common.d7212a14bee892172f1b.js": "b642a48f3ee85c44dc00133339b9c786a92dc589",
     "https://inthetext.github.io/app/index.html": "470b8ba0ee096ead254478fb37e215b5ef31ecde",
     "https://inthetext.github.io/app/main.c627f8de2663b3796c0e.js": "87c71aede39af54e8fb5b97c49ab8b7a8c8be924",
-    "https://inthetext.github.io/app/manifest.webmanifest": "5006bfc54c41e7a59bafe522c2b9fda2af83a9b3",
+    "https://inthetext.github.io/app/manifest.webmanifest": "4e695dcef1a24972dcfe79d57579a4a8915c30b5",
     "https://inthetext.github.io/app/polyfills-core-js.926b2b327e549d9db414.js": "f71279ef311f3c1cecc661b8aabe632959a282f8",
     "https://inthetext.github.io/app/polyfills-css-shim.359ce37e09f907eb011b.js": "3f4dd6685f2d8a7a5f6fe2d3fa9e9320d460b112",
     "https://inthetext.github.io/app/polyfills-dom.bf6c5ee357b1ca4890e9.js": "3d12740300342a24e404779d9c0a06c58f44ec7c",
