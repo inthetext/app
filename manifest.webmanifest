@@ -1,8 +1,8 @@
 {
     "name": "In The Text",
     "short_name": "In The Text",
-    "theme_color": "#1976d2",
-    "background_color": "#fafafa",
+    "theme_color": "#1C2158",
+    "background_color": "#1C2158",
     "display": "standalone",
     "scope": "./",
     "start_url": "./",
