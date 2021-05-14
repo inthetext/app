@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1621025935473,
+  "timestamp": 1621026851181,
   "index": "https://inthetext.app/index.html",
   "assetGroups": [
     {
@@ -62,17 +62,17 @@
         "https://inthetext.app/57.920ff0d7fd08a3371758.js",
         "https://inthetext.app/58.55ee2b498744ff70f3ff.js",
         "https://inthetext.app/59.76fa492d855a37bd9c51.js",
-        "https://inthetext.app/9.ae18d22ffc4e56832ea9.js",
+        "https://inthetext.app/9.14b730d13f5c4ec7c3f6.js",
         "https://inthetext.app/common.d7212a14bee892172f1b.js",
         "https://inthetext.app/index.html",
-        "https://inthetext.app/main.3a50bb577d7598fc1daa.js",
+        "https://inthetext.app/main.8da86f815623f8343b84.js",
         "https://inthetext.app/manifest.webmanifest",
         "https://inthetext.app/polyfills-core-js.926b2b327e549d9db414.js",
         "https://inthetext.app/polyfills-css-shim.359ce37e09f907eb011b.js",
         "https://inthetext.app/polyfills-dom.bf6c5ee357b1ca4890e9.js",
         "https://inthetext.app/polyfills.e6dc0539604a95854092.js",
-        "https://inthetext.app/runtime.e5ad43d92b0c6fe4890a.js",
-        "https://inthetext.app/styles.ed48c29e5da64158dafa.css"
+        "https://inthetext.app/runtime.32ff2e75acf037e55f08.js",
+        "https://inthetext.app/styles.a03f6235c32e335882c6.css"
       ],
       "patterns": []
     },
@@ -163,7 +163,7 @@
     "https://inthetext.app/57.920ff0d7fd08a3371758.js": "50f04b902d71bff5e32e149614bd5af21ba2a894",
     "https://inthetext.app/58.55ee2b498744ff70f3ff.js": "50cfefb195fbc558e227f5ed063a1dd5f30f1410",
     "https://inthetext.app/59.76fa492d855a37bd9c51.js": "9e75d90efc0eabe910d8ca98727733a4243bb08a",
-    "https://inthetext.app/9.ae18d22ffc4e56832ea9.js": "696753dc65406145d32eeafd24d02bbbc079a129",
+    "https://inthetext.app/9.14b730d13f5c4ec7c3f6.js": "5180293a8cce94050527e2e5f4f8dfbb8c146645",
     "https://inthetext.app/DMSans-Bold.da49214b2d88abca155c.ttf": "ba828d9137dac8d986a3ea97ca56e390897a0b14",
     "https://inthetext.app/DMSans-BoldItalic.0cb57cc03481cd111898.ttf": "af5915d120d1f8253c18cb05128777e0fa5682fa",
     "https://inthetext.app/DMSans-Italic.63d6efd087549c010a69.ttf": "d3719e603afd398b4307d3f742dad87d1bc7eb64",
@@ -187,15 +187,15 @@
     "https://inthetext.app/assets/icons/icon-96x96.png": "6ff867748d1ad8cbe8bf2ba2e31cb537e8c36b93",
     "https://inthetext.app/assets/shapes.svg": "5413e95adabcb2cb639970051f55e0ddb64ace53",
     "https://inthetext.app/common.d7212a14bee892172f1b.js": "b642a48f3ee85c44dc00133339b9c786a92dc589",
-    "https://inthetext.app/index.html": "4f58314906fb7566934f4e32e10498fda90167b6",
-    "https://inthetext.app/main.3a50bb577d7598fc1daa.js": "87c71aede39af54e8fb5b97c49ab8b7a8c8be924",
+    "https://inthetext.app/index.html": "ec0f6fdefe75cae6def9b4167e2c3421fbf25b56",
+    "https://inthetext.app/main.8da86f815623f8343b84.js": "4c90802876206e7410a142a0cc450e6481830234",
     "https://inthetext.app/manifest.webmanifest": "985f6c6c53e037e6112c9f93e8e417607a680899",
     "https://inthetext.app/polyfills-core-js.926b2b327e549d9db414.js": "f71279ef311f3c1cecc661b8aabe632959a282f8",
     "https://inthetext.app/polyfills-css-shim.359ce37e09f907eb011b.js": "3f4dd6685f2d8a7a5f6fe2d3fa9e9320d460b112",
     "https://inthetext.app/polyfills-dom.bf6c5ee357b1ca4890e9.js": "3d12740300342a24e404779d9c0a06c58f44ec7c",
     "https://inthetext.app/polyfills.e6dc0539604a95854092.js": "9134fde622593c9b0cd0df868a0a44045222b896",
-    "https://inthetext.app/runtime.e5ad43d92b0c6fe4890a.js": "f8d6546f966258879ee83d78c289b534b5ee5093",
-    "https://inthetext.app/styles.ed48c29e5da64158dafa.css": "b9554664f681af1d9f13f0684f2accae9da4b865"
+    "https://inthetext.app/runtime.32ff2e75acf037e55f08.js": "9053d66c5ac5a2f89abb60d997ee0db632222c64",
+    "https://inthetext.app/styles.a03f6235c32e335882c6.css": "6f48fff45fbb9019d934b57e6f9dd8c63a59976e"
   },
   "navigationUrls": [
     {
