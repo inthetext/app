@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="59px" viewBox="0 0 62 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Splash-Screen" transform="translate(-164.000000, -363.000000)">
+            <g id="Group" transform="translate(164.000000, 363.000000)">
+                <path d="M20,19.2391304 L31,0 L41,19.0670732 L40.94465,48.5662963 C40.933832,54.3318358 36.2569006,59 30.491351,59 C24.7265208,59 20.0508619,54.331113 20.0425064,48.5662889 L20,19.2391304 L20,19.2391304 Z" id="Rectangle-Copy-27" fill="#3192D3"></path>
+                <path d="M10,0 L31,0 L31,0 L20,20 L10,20 C4.4771525,20 6.76353751e-16,15.5228475 0,10 C-6.76353751e-16,4.4771525 4.4771525,1.01453063e-15 10,0 Z" id="Rectangle-Copy-28" fill="#75D8DE"></path>
+                <path d="M31,0 L52,0 C57.5228475,-1.01453063e-15 62,4.4771525 62,10 C62,15.5228475 57.5228475,20 52,20 L41,20 L41,20 L31,0 Z" id="Rectangle-Copy-29" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
