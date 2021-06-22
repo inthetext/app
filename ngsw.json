@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1624379479393,
+  "timestamp": 1624394929054,
   "index": "https://inthetext.app/index.html",
   "assetGroups": [
     {
@@ -11,8 +11,8 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://inthetext.app/10.759016cf0879243ab590.js",
-        "https://inthetext.app/11.9fc4141df23b94b1e782.js",
+        "https://inthetext.app/10.69cb449273a3bcd7179d.js",
+        "https://inthetext.app/11.5f913502638f2ba520db.js",
         "https://inthetext.app/12.1543092cc09b3c966e11.js",
         "https://inthetext.app/13.38c71099011b284a37c7.js",
         "https://inthetext.app/14.efa0efb532f1571f2192.js",
@@ -21,7 +21,7 @@
         "https://inthetext.app/17.228e42d43a28fe05183e.js",
         "https://inthetext.app/18.e74560b385c2377f910a.js",
         "https://inthetext.app/19.e4749e183280c73eb56e.js",
-        "https://inthetext.app/2.b5713345acddaceea85f.js",
+        "https://inthetext.app/2.09e4da687e9aaf6af3d2.js",
         "https://inthetext.app/20.f6c4cae84023abda95f0.js",
         "https://inthetext.app/21.b442dbb94bb5ec5f0605.js",
         "https://inthetext.app/22.dc0ec89ba31ad575ee5d.js",
@@ -67,14 +67,14 @@
         "https://inthetext.app/61.5abb8ed10bf81310d91d.js",
         "https://inthetext.app/common.d7212a14bee892172f1b.js",
         "https://inthetext.app/index.html",
-        "https://inthetext.app/main.5a0793dcce7967365618.js",
+        "https://inthetext.app/main.818a00fd4f7ece197170.js",
         "https://inthetext.app/manifest.webmanifest",
         "https://inthetext.app/polyfills-core-js.34a7a4f3eef21f09975c.js",
         "https://inthetext.app/polyfills-css-shim.0ca88c17088e82eeb803.js",
         "https://inthetext.app/polyfills-dom.229f6ccdfd09cbe5701c.js",
         "https://inthetext.app/polyfills.2444aada7f88111808f2.js",
-        "https://inthetext.app/runtime.b9809deb88a3db608f69.js",
-        "https://inthetext.app/styles.bdfb3babc813ad4adc46.css"
+        "https://inthetext.app/runtime.54d0bc84724e0e68e2b1.js",
+        "https://inthetext.app/styles.2b55956fdf127bd0ef35.css"
       ],
       "patterns": []
     },
@@ -119,8 +119,8 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://inthetext.app/10.759016cf0879243ab590.js": "1896f09ae77447a1d3292a5c9fbb32aca8052979",
-    "https://inthetext.app/11.9fc4141df23b94b1e782.js": "b0e0affb53b466f5cdf9c2cd6484c091c27f6bb1",
+    "https://inthetext.app/10.69cb449273a3bcd7179d.js": "5635749b0ebd9f1a99814df374d521760cce410e",
+    "https://inthetext.app/11.5f913502638f2ba520db.js": "b0e0affb53b466f5cdf9c2cd6484c091c27f6bb1",
     "https://inthetext.app/12.1543092cc09b3c966e11.js": "34270d09c67e990bc387d78223a4deee9bddf28e",
     "https://inthetext.app/13.38c71099011b284a37c7.js": "39a8510d6ad97b004c87486bc88e6daaaa84a3e4",
     "https://inthetext.app/14.efa0efb532f1571f2192.js": "f89ae7ae787f52e421f71b3f6d98a5d949570841",
@@ -129,7 +129,7 @@
     "https://inthetext.app/17.228e42d43a28fe05183e.js": "649727e698c9c0a566dd390072d477ac8832748d",
     "https://inthetext.app/18.e74560b385c2377f910a.js": "15a215da5cba638bef9422d52e08feaa7cb6a28d",
     "https://inthetext.app/19.e4749e183280c73eb56e.js": "0965161f027c8e1f8a3ea023ff8269be428fb7a7",
-    "https://inthetext.app/2.b5713345acddaceea85f.js": "10740121cb444591fd2d8d3a7eca762672d509f6",
+    "https://inthetext.app/2.09e4da687e9aaf6af3d2.js": "3f278b0a44cc7a34c29630a98863f7770f24a701",
     "https://inthetext.app/20.f6c4cae84023abda95f0.js": "6ffcd8a0a62d7a42d29640f8c379ba5e42777c29",
     "https://inthetext.app/21.b442dbb94bb5ec5f0605.js": "f8d4ec00aaf019e2d179b8260c27baac9c50e69d",
     "https://inthetext.app/22.dc0ec89ba31ad575ee5d.js": "cfad16dfd2afd5f35ef7a575ff1c8058f11eb735",
@@ -201,15 +201,15 @@
     "https://inthetext.app/assets/icons/logo.svg": "d1fc110c10519959b687cd038aceffd7cc2d2bab",
     "https://inthetext.app/assets/shapes.svg": "5413e95adabcb2cb639970051f55e0ddb64ace53",
     "https://inthetext.app/common.d7212a14bee892172f1b.js": "b642a48f3ee85c44dc00133339b9c786a92dc589",
-    "https://inthetext.app/index.html": "06e0613ecfbaf18a72e87cf3c6995eaf235a1194",
-    "https://inthetext.app/main.5a0793dcce7967365618.js": "d6e740737dd5b0550616f4694c3604e7ce3eb4ad",
+    "https://inthetext.app/index.html": "143e3a683343754826a9cb13545f25719ec321a2",
+    "https://inthetext.app/main.818a00fd4f7ece197170.js": "826ceca9c908d21bd0011c1c0c930657087c6d5b",
     "https://inthetext.app/manifest.webmanifest": "aac44aaa11ec721403e70d9f1688f25579180b72",
     "https://inthetext.app/polyfills-core-js.34a7a4f3eef21f09975c.js": "3d74d90a65b32ec6ecf12af7fca30e49ab4bee0b",
     "https://inthetext.app/polyfills-css-shim.0ca88c17088e82eeb803.js": "6ba07494767f2843cf24e381db6868b0b890d1af",
     "https://inthetext.app/polyfills-dom.229f6ccdfd09cbe5701c.js": "3455849cad83b87b1a14b708e9b057e7d60ca34e",
     "https://inthetext.app/polyfills.2444aada7f88111808f2.js": "8074974bce017d7141d1dd096546e69c8ae8cfd6",
-    "https://inthetext.app/runtime.b9809deb88a3db608f69.js": "f27e25364eab4ca496181cb64bc49f68109ec504",
-    "https://inthetext.app/styles.bdfb3babc813ad4adc46.css": "43e57749ad5cd630976b30acc322dc8af9026160"
+    "https://inthetext.app/runtime.54d0bc84724e0e68e2b1.js": "7747b140f4bd2411f05bf92bedf8993091327814",
+    "https://inthetext.app/styles.2b55956fdf127bd0ef35.css": "c4d608545902e700e939756e63b8f97df11e1de8"
   },
   "navigationUrls": [
     {
