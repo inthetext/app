@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1624378467521,
+  "timestamp": 1624379479393,
   "index": "https://inthetext.app/index.html",
   "assetGroups": [
     {
@@ -203,7 +203,7 @@
     "https://inthetext.app/common.d7212a14bee892172f1b.js": "b642a48f3ee85c44dc00133339b9c786a92dc589",
     "https://inthetext.app/index.html": "06e0613ecfbaf18a72e87cf3c6995eaf235a1194",
     "https://inthetext.app/main.5a0793dcce7967365618.js": "d6e740737dd5b0550616f4694c3604e7ce3eb4ad",
-    "https://inthetext.app/manifest.webmanifest": "8453f7fa3b9dd27b24a586e956947e9177cdeed5",
+    "https://inthetext.app/manifest.webmanifest": "aac44aaa11ec721403e70d9f1688f25579180b72",
     "https://inthetext.app/polyfills-core-js.34a7a4f3eef21f09975c.js": "3d74d90a65b32ec6ecf12af7fca30e49ab4bee0b",
     "https://inthetext.app/polyfills-css-shim.0ca88c17088e82eeb803.js": "6ba07494767f2843cf24e381db6868b0b890d1af",
     "https://inthetext.app/polyfills-dom.229f6ccdfd09cbe5701c.js": "3455849cad83b87b1a14b708e9b057e7d60ca34e",
