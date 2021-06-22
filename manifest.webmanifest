@@ -3,6 +3,7 @@
     "short_name": "In The Text",
     "theme_color": "#1C2158",
     "background_color": "#1C2158",
+    "orientation": "portrait",
     "display": "standalone",
     "scope": "./",
     "start_url": "./",
